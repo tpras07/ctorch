@@ -1,0 +1,14 @@
+*.o
+*.out
+*.exe
+*.a
+*.so
+/ctorch
+
+build/
+cmake-build-*/
+
+.vscode/
+.idea/
+
+data/
